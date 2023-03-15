@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box box-sizing: border-box;
+    text-decoration: none ;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font font-family: sans-serif ,'Russo' ;
+
+}
+
+:root {
+    --bg-color : #1f242d ;
+    --second-bg-color: #323945;
+    
+}
